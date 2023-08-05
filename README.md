@@ -2,11 +2,11 @@
 Modern Full Stack ECommerce Application with Stripe & Sanity
 ![eCommerce](https://user-images.githubusercontent.com/70088342/160780701-7bb38a57-76bd-49a2-a4ec-49f89c50a7c7.png)
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
-
-**Build and Deploy a fully responsive Modern Full Stack Ecommerce application with Payments functionality**. With Modern design, animations, the ability to add and edit products on the go using a CMS, all advanced cart functionalities, and most importantly the complete integration with Stripe so that you can cover REAL payments. This is the best e-commerce website project that you can currently find on YouTube!
-
-
+# some Command use in Sanity 
+### npm create sanity@latest -- --template get-started --project 25ydmqd1 --dataset production --provider google   => to create a sanity project 
+### npm install -g @sanity/cli   => to install sanity cli global
+### sanity start   => to start and open localhost/3333 and insert data using Smart ui
+### sanity manage  => to open page conatin (projectId,dataset,token) used to connect front with sanity to get data 
 
 ![image](https://user-images.githubusercontent.com/70088342/160780701-7bb38a57-76bd-49a2-a4ec-49f89c50a7c7.png)
 ![image](https://user-images.githubusercontent.com/70088342/160780206-9cfe7c0a-3d8e-4a20-a055-b12efebe6c30.png)
